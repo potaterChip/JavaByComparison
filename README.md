@@ -92,7 +92,7 @@ review situations when something doesn't seem right with a piece of code but I c
 - Avoid Optional Fields or Parameters
 - Use Optionals as Streams
 
-*** 9. Prepare for the Real World
+### 9. Prepare for the Real World
 - Use Static Code Analysis Tools (Google's)
 - Agree On the Java Format in Your Team (Google's)
 - Automate Your Build (build tool like gradle)
